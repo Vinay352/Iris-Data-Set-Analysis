@@ -10,3 +10,5 @@ Logistic regression and SVM classification prove to be the suitable models for t
 Later, the original data set in drawn in 3D to visualize if there is anything in common that they share. 
 
 Iris-virginica and Iris-versicolor share some properties while Iris-setosa is an isolated class.
+
+NOTE: The 2D visualizations of the machine learning algos applied after applying LDA is given in a separate folder.
